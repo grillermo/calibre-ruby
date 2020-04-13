@@ -1,3 +1,11 @@
+# About this clone
+The original repository is on https://0xacab.org/pip/calibre-ruby
+I downloaded the code and initialized a new repository because i could not 
+make an account on 0xacab.org, registration is closed.
+
+The original need was to remove the SQLite dependency to be able to use this
+gem on heroku.
+
 ActiveRecord for Calibre's book database!
 
 # Usage
